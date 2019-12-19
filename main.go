@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Project-kb/cmd"
+	"demo-cobra/cmd"
 	"fmt"
 	"os"
 )
